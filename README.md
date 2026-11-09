@@ -15,3 +15,4 @@
 - Nó có xóa hay ghi đè vào phần nào hay không?
 - Trường hợp code này lỗi thì như thế nào/
 - Kết luận mức độ an toàn ?(an toàn/cẩn thận trọng /không an toàn)?Vì sao?
+- Đưa mong đợi của mình vào.
