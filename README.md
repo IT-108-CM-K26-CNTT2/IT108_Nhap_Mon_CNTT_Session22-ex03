@@ -12,6 +12,6 @@
 
 **Thiết kế một câu lệnh (Prompt) "hỏi ngược lại" AI để yêu cầu nó giải thích độ an toàn của câu lệnh trước khi bạn thực thi.**
 - Lệnh này thực sự đang làm gì ?
-- Nó có xóa hay ghi đè vào phần nàp hay không?
+- Nó có xóa hay ghi đè vào phần nào hay không?
 - Trường hợp code này lỗi thì như thế nào/
 - Kết luận mức độ an toàn ?(an toàn/cẩn thận trọng /không an toàn)?Vì sao?
